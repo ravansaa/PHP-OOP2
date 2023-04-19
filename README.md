@@ -8,6 +8,8 @@ This project is an assignment from my class
 #### MatKul : Pemrograman Weh 2
 
 ### Latihan
+## Database
+![Gambar](img/db.png)
 ## Membuat Routing
 ### Routing digunakan untuk mempermudah akses halaman web agar SEO Friendly menggunakan Class Library
 ![Gambar](img/1.png)
